@@ -4014,6 +4014,10 @@
 	path = extensions/thorn-theme
 	url = https://github.com/celioreyes/thorn-zed-theme.git
 
+[submodule "extensions/thoughtworks-styled-theme"]
+	path = extensions/thoughtworks-styled-theme
+	url = https://github.com/guzhongren/thoughtworks-zed-theme.git
+
 [submodule "extensions/thrift"]
 	path = extensions/thrift
 	url = https://github.com/likaihua/zed-thrift.git
@@ -4649,6 +4653,3 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
-[submodule "extensions/thoughtworks-zed-theme"]
-	path = extensions/thoughtworks-zed-theme
-	url = https://github.com/guzhongren/thoughtworks-zed-theme.git
